@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || '🦋𝗜𝗧𝗔𝗖𝗛𝗜 ✞︎ 𝗨𝗖𝗛𝗜𝗛𝗔 ♂️'}*  
    Version: *${settings.version || '1.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
+   by ${settings.botOwner || '𝐇4𝐒𝐒𝐀1𝐍 𝐓𝐇𝐄 𝐆𝐎𝐒𝐓__/💀⚠️ '}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -121,8 +121,8 @@ Join our channel for updates:`;
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '',
+                        newsletterName: '',
                         serverMessageId: -1
                     }
                 }
@@ -135,8 +135,8 @@ Join our channel for updates:`;
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '',
+                        newsletterName: '🦋𝗜𝗧𝗔𝗖𝗛𝗜 ✞︎ 𝗨𝗖𝗛𝗜𝗛𝗔 ♂️  by 𝐇4𝐒𝐒𝐀1𝐍 𝐓𝐇𝐄 𝐆𝐎𝐒𝐓__/💀⚠️',
                         serverMessageId: -1
                     } 
                 }
