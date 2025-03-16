@@ -1,5 +1,5 @@
 {
-    "name": "KnightBot-MD",
+    "name": "HUSSAIN BOT",
     "description": "Advanced WhatsApp Bot with Multiple Features",
     "keywords": [
         "bot",
@@ -8,7 +8,7 @@
         "knightbot",
         "multi-device"
     ],
-    "repository": "https://github.com/mruniquehacker/Knightbot-MD",
+    "repository": "None public",
     "stack": "container",
     "env": {
         "SESSION_ID": {
